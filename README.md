@@ -1,2 +1,3 @@
 # comp_sci
-Computer Science coursework project, D Evans - Wilks.
+computer science coursework project, d evans - wilks.
+made in python
